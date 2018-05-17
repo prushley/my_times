@@ -56,11 +56,11 @@ div {
 
 #mother {
   display: flex;
+  background-image: url(".\resources\images\img-story-main.png");
     }
 
 #mother-headline {
   display: flex;
-  background-image: url("C:\Users\Peter Rushton\test\my_times\resources\images\img-story-main.png");
   font-family: Georgia;
   font-weight: bold;
   font-size: 40px;

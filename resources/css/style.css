@@ -1,0 +1,68 @@
+.header {
+  display: inline-flex;
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+  justify-content: flex-start;
+  align-items: center;
+  width: 100%;
+  margin: 0 0 10px 0;
+  }
+
+.logo {
+  margin: 0px 10px 0px 30px;
+}
+
+.logo-text {
+  color: mediumaquamarine;
+  margin: 0px 600px 0px 0px;
+}
+
+.nav a {
+  color: black;
+  display: inline-block;
+  padding: 20px;
+}
+
+.main-container {
+  display: flex;
+  padding: 20px 0 0 0;
+  justify-content: flex-start;
+  width: 100%;
+  }
+
+.left-column {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 630px;
+  }
+
+.center-column {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 300px;
+  margin: 0px 20px;
+}
+
+.right-column {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 240px;
+}
+
+div {
+  border: solid 1px black;
+}
+
+#mother {
+  display: flex;
+    }
+
+#mother-headline {
+  display: flex;
+  background-image: url("C:\Users\Peter Rushton\test\my_times\resources\images\img-story-main.png");
+  font-family: Georgia;
+  font-weight: bold;
+  font-size: 40px;
+  color: white;
+}
